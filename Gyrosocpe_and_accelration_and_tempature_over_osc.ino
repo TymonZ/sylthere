@@ -35,8 +35,8 @@ int temp;
 #include <OSCBundle.h>   // for receiving OSC messages
 
 // Wifi name and password
-char ssid[] = "DAER-NET-FOCUS";  // your network SSID (name)
-char pass[] = "daer22*FOCUS";      // your network password
+char ssid[] = "";  // your network SSID (name)
+char pass[] = "";      // your network password
 
 
 
